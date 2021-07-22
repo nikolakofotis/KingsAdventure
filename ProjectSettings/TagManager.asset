@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Crate
+  - Enemy
+  - Cannon
+  - Background
+  - Bomb
+  - Shop
+  - Door
+  - CheckPoint
+  - Diamonds
+  - Steps
+  - CannonHead
+  - FCrate
+  - ShadowPig
+  - Dialogue
+  - Platform
+  - ColliderHelp
+  - LadderTag
+  - Feet
+  - Rock
+  - RockBullet
+  - Bunny
+  - Chameleon
+  - Rhino
+  - TreeBullet
+  - TreeTrunks
+  - SideWalls
+  - PushRock
+  - Purple
+  - BlueBullet
+  - Blackbird
+  - Bullet
+  - Ghost
+  - DashCrate
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - AttackableOBJ
+  - Player
+  - Cannon
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
